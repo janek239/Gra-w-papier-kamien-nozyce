@@ -8,13 +8,13 @@ status_counter_w = 0
 status_counter_d = 0
 status_counter_l = 0
 
-ans_win_round = "Wygrałeś!!! :)🎉"
-ans_lose_round = "przegrałeś 😢"
-ans_draw_round = "jest remis 🤝 -_-"
+ans_win_round = "Wygrałeś!!! :)"
+ans_lose_round = "przegrałeś :("
+ans_draw_round = "jest remis -_-"
 
-ans_win_game = "Wygrałeś!!! :)🎉🎉🎉🎉🎉 Brawo spróbuj jeszcze raz wygrać z komputerem"
-ans_lose_game = "przegrałeś😢 spróbuj jeszcze raz"
-ans_draw_game = "zremisowałeś z komputerem🤝 spróbuj jeszcze raz"
+ans_win_game = "Wygrałeś!!! :) Brawo spróbuj jeszcze raz wygrać z komputerem"
+ans_lose_game = "przegrałeś spróbuj jeszcze raz :("
+ans_draw_game = "zremisowałeś z komputerem -_- spróbuj jeszcze raz"
 
 print("W grze papier, kamień, nożyce kto pierwszy zwycięży 3 razy wygrywa.")
 
